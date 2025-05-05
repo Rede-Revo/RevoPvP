@@ -1,7 +1,7 @@
-# ⚔️ RevoPvP 1.21 & 1.21.1
+# ⚔️ RevoPvP
 Textura adicional para quem curte jogar um PvP.
 
-# ⚙️ Requisitos (Fabric)
+# ⚙️ Requisitos (Fabric) 1.21 & 1.21.1
 ### Fabric + Fabric API
 Mod loader leve + a API essencial para mods no Minecraft.
 ### Cit Resewn

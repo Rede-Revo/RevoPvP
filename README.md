@@ -4,7 +4,7 @@ Textura adicional para quem curte jogar um PvP.
 # 📥 Requisitos (Fabric) 1.21 & 1.21.1
 ### ⚙️ Fabric + Fabric API
 Mod loader leve + a API essencial para mods no Minecraft.
-### 🛫 Cit Resewn
+### 🛫 CIT Resewn
 Permite usar texturas personalizadas em itens.
 ### 🖥️ OptiGUI
 Simplifica a configuração de texturas e recursos visuais do OptiFine.

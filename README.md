@@ -6,7 +6,7 @@ Textura adicional para quem curte jogar um PvP.
 Mod loader leve + a API essencial para mods no Minecraft.
 ### Cit Resewn
 Permite usar texturas personalizadas em itens.
-### OptiGUI
+### 💻 OptiGUI
 Simplifica a configuração de texturas e recursos visuais do OptiFine.
 ### 🎬 MoreMcmeta
 Adiciona suporte a texturas animadas em blocos e itens.

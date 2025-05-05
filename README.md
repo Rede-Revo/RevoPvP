@@ -21,7 +21,7 @@ Habilita texturas personalizadas (HD, animadas e CIT) e ajustes visuais avançad
 ### MoreMcmeta
 Adiciona suporte a texturas animadas em blocos e itens.
 
-# CRÉDITOS
+# Créditos
 Obrigado a todos que contribuiram para fazer essa resource pack!
 
 Diversas pessoas contribuem com a criação e melhorias dessa resource pack, então nada mais justo dar os devidos créditos a todos que contribuiram, não é mesmo? ♥

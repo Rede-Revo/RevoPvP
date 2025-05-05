@@ -31,3 +31,4 @@ Diversas pessoas contribuem com a criação e melhorias dessa resource pack, ent
 
 ### Contribuintes inativos:
 
+![download_upscayl_1x_digital-art-4x](https://github.com/user-attachments/assets/57d95a94-db4d-473b-8e5d-60c9f74f7605)

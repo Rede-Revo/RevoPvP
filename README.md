@@ -8,7 +8,7 @@ Mod loader leve + a API essencial para mods no Minecraft.
 Permite usar texturas personalizadas em itens.
 ### OptiGUI
 Simplifica a configuração de texturas e recursos visuais do OptiFine.
-### MoreMcmeta
+### 🎬 MoreMcmeta
 Adiciona suporte a texturas animadas em blocos e itens.
 ### 🌟 FabricSkyBoxes + FSB Interop
 Mods que permitem céus personalizados.
@@ -16,9 +16,9 @@ Mods que permitem céus personalizados.
 # 📥 Requisitos (Forge) 1.21 & 1.21.1
 ### ⚙️ Forge
 Loader de mods robusto e amplamente compatível.
-### 🧩 OptiFine
+### OptiFine
 Habilita texturas personalizadas (HD, animadas e CIT) e ajustes visuais avançados no Minecraft. 
-### 🛠MoreMcmeta
+### 🎬 MoreMcmeta
 Adiciona suporte a texturas animadas em blocos e itens.
 
 # Créditos 🎮

@@ -1,4 +1,4 @@
-# ⚔️ RevoPvP
+# ⚔️ RevoPvP 1.21 & 1.21.1
 Textura adicional para quem curte jogar um PvP.
 
 # ⚙️ Requisitos (Fabric)

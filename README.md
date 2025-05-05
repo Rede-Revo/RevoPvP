@@ -16,9 +16,9 @@ Mods que permitem céus personalizados.
 # 📥 Requisitos (Forge) 1.21 & 1.21.1
 ### ⚙️ Forge
 Loader de mods robusto e amplamente compatível.
-### OptiFine
+### 🧩 OptiFine
 Habilita texturas personalizadas (HD, animadas e CIT) e ajustes visuais avançados no Minecraft. 
-### MoreMcmeta
+### 🛠MoreMcmeta
 Adiciona suporte a texturas animadas em blocos e itens.
 
 # Créditos 🎮

@@ -1,0 +1,9 @@
+{
+    "parent": "block/trapdoors/template_open",
+    "textures": {
+        "top": "blocks/trapdoor",
+		"bottom": "blocks/trapdoor",
+		"front": "custom/block/trapdoors/oak/front",
+		"side": "custom/block/trapdoors/oak/side"
+    }
+}

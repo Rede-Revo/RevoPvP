@@ -1,0 +1,35 @@
+{
+										
+	"item.flintandsteel.use": { "replace": true,
+		"sounds": [ "item/flint_and_steel/ignite" ] }, 
+	"item.firecharge.use": { "replace": true,
+		"sounds": [ "item/flint_and_steel/ignite" ] }, 
+		
+	"entity.splash_potion.break": { "replace": true,
+		"sounds": [ "item/splash_potion/break1", "item/splash_potion/break2", "item/splash_potion/break3" ] },  
+					 
+	"entity.arrow.hit": { "replace": true,
+		"sounds": [ "damage/bow_hit" ] }, 
+	"entity.arrow.hit_player": { "replace": true,
+		"sounds": [ "damage/bow_hit" ] }, 
+											
+	"block.gravel.step": { "replace": true,
+		"sounds": [ "block/generic_gravel/step1", "block/generic_gravel/step2", "block/generic_gravel/step3", "block/generic_gravel/step4", "block/generic_gravel/step5", "block/generic_gravel/step6" ] },
+				
+	"block.wood.hit": { "replace": true,
+		"sounds": [ "block/generic_wood/step1", "block/generic_wood/step2", "block/generic_wood/step3", "block/generic_wood/step4", "block/generic_wood/step5", "block/generic_wood/step6" ] },
+	"block.wood.step": { "replace": true,
+		"sounds": [ "block/generic_wood/step1", "block/generic_wood/step2", "block/generic_wood/step3", "block/generic_wood/step4", "block/generic_wood/step5", "block/generic_wood/step6" ] },
+		
+	"block.glass.hit": { "replace": true,
+		"sounds": [ "block/generic_glass/break1", "block/generic_glass/break2", "block/generic_glass/break3", "block/generic_glass/break4" ] },
+	"block.glass.step": { "replace": true,
+		"sounds": [ "block/generic_glass/step1", "block/generic_glass/step2", "block/generic_glass/step3", "block/generic_glass/step4", "block/generic_glass/step5", "block/generic_glass/step6" ] },
+							
+	"block.metal.hit": { "replace": true,
+		"sounds": [ "block/generic_metal/step1", "block/generic_metal/step2", "block/generic_metal/step3", "block/generic_metal/step4", "block/generic_metal/step5", "block/generic_metal/step6", "block/generic_metal/step7", "block/generic_metal/step8", "block/generic_metal/step9" ] },
+	"block.metal.break": { "replace": true,
+		"sounds": [ "block/generic_metal/step1", "block/generic_metal/step2", "block/generic_metal/step3", "block/generic_metal/step4", "block/generic_metal/step5", "block/generic_metal/step6", "block/generic_metal/step7", "block/generic_metal/step8", "block/generic_metal/step9" ] },
+	"block.metal.step": { "replace": true,
+		"sounds": [ "block/generic_metal/step1", "block/generic_metal/step2", "block/generic_metal/step3", "block/generic_metal/step4", "block/generic_metal/step5", "block/generic_metal/step6", "block/generic_metal/step7", "block/generic_metal/step8", "block/generic_metal/step9" ] }
+}

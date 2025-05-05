@@ -1,0 +1,6 @@
+{
+  "parent": "item/templates/lantern2",
+  "textures": {
+    "lantern": "block/soul_lantern"
+  }
+}

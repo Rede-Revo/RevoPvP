@@ -1,7 +1,7 @@
 # ⚔️ RevoPvP
 Textura adicional para quem curte jogar um PvP.
 
-# ⚙️ Requisitos (Fabric) 1.21 & 1.21.1
+# 📥 Requisitos (Fabric) 1.21 & 1.21.1
 ### Fabric + Fabric API
 Mod loader leve + a API essencial para mods no Minecraft.
 ### Cit Resewn
@@ -13,7 +13,7 @@ Adiciona suporte a texturas animadas em blocos e itens.
 ### FabricSkyBoxes + FSB Interop
 Mods que permitem céus personalizados.
 
-# ⚙️ Requisitos (Forge)
+# 📥 Requisitos (Forge) 1.21 & 1.21.1
 ### Forge
 Loader de mods robusto e amplamente compatível.
 ### OptiFine

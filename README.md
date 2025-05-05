@@ -2,7 +2,7 @@
 Textura adicional para quem curte jogar um PvP.
 
 # 📥 Requisitos (Fabric) 1.21 & 1.21.1
-### Fabric + Fabric API
+### ⚙️ Fabric + Fabric API
 Mod loader leve + a API essencial para mods no Minecraft.
 ### Cit Resewn
 Permite usar texturas personalizadas em itens.
@@ -14,7 +14,7 @@ Adiciona suporte a texturas animadas em blocos e itens.
 Mods que permitem céus personalizados.
 
 # 📥 Requisitos (Forge) 1.21 & 1.21.1
-### Forge
+### ⚙️ Forge
 Loader de mods robusto e amplamente compatível.
 ### OptiFine
 Habilita texturas personalizadas (HD, animadas e CIT) e ajustes visuais avançados no Minecraft. 

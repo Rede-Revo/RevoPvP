@@ -10,7 +10,7 @@ Permite usar texturas personalizadas em itens.
 Simplifica a configuração de texturas e recursos visuais do OptiFine.
 ### MoreMcmeta
 Adiciona suporte a texturas animadas em blocos e itens.
-### FabricSkyBoxes + FSB Interop
+### 🌠 FabricSkyBoxes + FSB Interop
 Mods que permitem céus personalizados.
 
 # 📥 Requisitos (Forge) 1.21 & 1.21.1
